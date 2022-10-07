@@ -30,10 +30,10 @@ The program accepts a single argument which is a relative filename. The file sho
   of rows across the columns. E.g., 
  | 1   2|
  |------|
- |21,|22|
- |23,|24|
- |20,|19|
- |20,|22|
+ |21|22|
+ |23|24|
+ |20|19|
+ |20|22|
   
   ## Program Limitations 
   
