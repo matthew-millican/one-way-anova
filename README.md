@@ -18,11 +18,11 @@ OpenJDK 64-Bit Server VM Corretto-17.0.4.9.1 (build 17.0.4.1+9-LTS, mixed mode, 
 
 Compile with:
 
-'$ javac *.java'
+`$ javac *.java`
 
 Then run with:
 
-'$ java Calculator.java <file-name>'
+`$ java Calculator.java <file-name>`
 
 ## Inputs
 
