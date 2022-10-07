@@ -1,14 +1,14 @@
 # one-way-anova
 
-% One-way ANOVA Calculator
+# One-way ANOVA Calculator
 
-% Purpose
+# Purpose
 
 This was a side-project from my school work which involved carrying out one-way ANOVA statistical tests on sets of data.
 
 The code automates the calculations of the mean squares and F-ratio. 
 
-% How To Run
+#  How To Run
 
 Simply clone the repository and compile the code (assuming a JDK is installed).
 
