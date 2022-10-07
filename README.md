@@ -28,6 +28,7 @@ Then run with:
 
 The program accepts a single argument which is a relative filename. The file should be a CSV file with a given number of columns, and a consistent number
   of rows across the columns. E.g., 
+ | 1   2|
  |------|
  |21,|22|
  |23,|24|
