@@ -34,6 +34,8 @@ The program accepts a single argument which is a relative filename. The file sho
  |23|24|
  |20|19|
  |20|22|
+ 
+ Column headers should be omitted. This is for demonstration only.
   
   ## Program Limitations 
   
